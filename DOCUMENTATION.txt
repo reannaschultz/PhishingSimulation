@@ -1,0 +1,20 @@
+*************************
+Author: Reanna Schultz
+
+Last Update: 10.03.2023
+*************************
+
+*************************
+About: 
+
+This project is designed for the cyber community in promoting cyber awareness to their business. The phish are designed to incorporate different levels of difficulty based on the number of phishing attributes each email contains. 
+For more information and background on understanding risk with phishing, please refer to this talk at BSides Knoxville: 
+https://www.youtube.com/watch?v=9I93YWLiyL0
+
+Each folder is organized into different threats within their level of difficulty. 
+
+*************************
+PHISH FOLDER - Easy
+
+This folder highlights phish that have a HIGH number of phishing attributes, thus the goal would be a high report rate and low click rate from users. Below are the phish that are in this folder: 
+
